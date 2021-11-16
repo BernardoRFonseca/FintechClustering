@@ -1,4 +1,4 @@
-# Rossmann Sales Prediction
+# Fintech Credit Customers Clustering Project
 ## 
 ![is-it-better-to-cancel-an-unused-credit-card-or-keep-it-960x450](https://user-images.githubusercontent.com/68538809/142030325-0a728d5c-01b3-4bf9-b40c-f9c404423330.jpg)
 
