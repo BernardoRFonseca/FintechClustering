@@ -1,6 +1,6 @@
 # Rossmann Sales Prediction
 ## 
-![csm_rossmann_shop_foto_stralsund_1633a5fb67](https://user-images.githubusercontent.com/68538809/134378783-172d7fcd-302c-463b-8f30-d855285e82ac.jpg)
+![is-it-better-to-cancel-an-unused-credit-card-or-keep-it-960x450](https://user-images.githubusercontent.com/68538809/142030325-0a728d5c-01b3-4bf9-b40c-f9c404423330.jpg)
 
 
 # 1. Context.
